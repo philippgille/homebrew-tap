@@ -3,13 +3,14 @@ homebrew-tap
 
 Homebrew tap for my apps
 
-You can add it to homebrew with:
-
+You can add it to homebrew with:  
 `brew tap philippgille/tap`
 
-Then you can install an app for example with:
-
+Then you can install an app for example with:  
 `brew install serve`
+
+Or in a single command:  
+`brew install philippgille/tap/serve`
 
 Apps
 ----
